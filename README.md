@@ -68,3 +68,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Developer & Copy Rights
+
+This iPod is Coding Ninjas Backend Project from Milestone-9 based on React
+Developed by Rahimun Shaik 
+copy rights of this project:- @rahimunShaik
+
+## How to run this project
+Open the project in ur VS-code/
+Open correct directory of the project in terminal of VScode
+run >>npm install
+run >>npm start
+u directly redirect to the project
